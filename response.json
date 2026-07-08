@@ -1,0 +1,32 @@
+RetriveNetflix = {
+    "account": {
+        "Id": 4,
+        "EmailAddress": "cassie-helm28@hotmail.com",
+        "Password": "27992283",
+        "PreviousPassword": "",
+        "PinCode": "",
+        "Platform": "netflix",
+        "Status": "standby",
+        "StartDate": "2026-06-24T00:00:00+07:00",
+        "ExpireDate": "2026-07-01T00:00:00+07:00",
+        "DateTimeGenerate": null,
+        "CmuitaccountInUse": "",
+        "is_active": 1
+    },
+    "is_new": true,
+    "pincode": {
+        "Id": 25,
+        "AccountId": 4,
+        "PinCode": "9386",
+        "CmuitaccountInUse": "rattanon_boonmata@cmu.ac.th",
+        "Status": 1,
+        "is_active": 1,
+        "AssignedAt": "2026-06-24T14:00:09.867756195+07:00",
+        "ExpireDate": null,
+        "DateTimeGenerate": "2026-06-08T16:29:58.744+07:00"
+    },
+    "profile_no": 1,
+    "status": true
+}
+
+

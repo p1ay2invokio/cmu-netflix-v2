@@ -1,0 +1,3 @@
+([('CMU_Netflix',
+   '/Users/play2/Desktop/repository/cmu-netflix-v2/dist/CMU_Netflix',
+   'EXECUTABLE')],)
